@@ -32,3 +32,10 @@
 - The ApplicationCoordinator is the one that creates the root view, inserting it in an UINavigationController. 
 
 - The ViewControllerCoordinator instead, is responsible for instantiate PokemonDetailsViewController tap on the given cell.
+
+
+
+![w8ZJLtJbmuph](https://user-images.githubusercontent.com/91742636/227455543-10c68691-ee44-4d72-a342-72e4cc7ead67.gif)
+
+
+
