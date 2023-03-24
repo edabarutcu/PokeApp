@@ -25,7 +25,7 @@
 
 - Fetching and parsing operations (from JSON to our data structure) are all entrusted to the Parser.
 
- -It is responsible for taking the data and converting it into our data structure.
+-  is responsible for taking the data and converting it into our data structure.
  
 - I decided to entrust the responsibility for navigation between the various screens, and their actual creation, to the Coordinator.
 
