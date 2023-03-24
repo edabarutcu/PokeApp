@@ -2,7 +2,7 @@
 //  Box.swift
 //  PokemonList
 //
-//  Created by Giovanni Erpete on 26/04/21.
+//  Created by Eda Barutçu on 23/03/23.
 //  This class will use to do data binding
 
 import Foundation

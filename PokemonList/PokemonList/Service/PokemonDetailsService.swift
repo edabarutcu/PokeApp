@@ -15,7 +15,6 @@ class PokemonDetailsService {
                                                             "Featured in games",
                                                             "Statistics",
                                                             "Types"    ]
-    
     public static func getSections() -> [String] {
         return pokemonDetailsSections
     }
